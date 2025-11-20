@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://0413one.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://0413one.github.io</link></image><lastBuildDate>Thu, 20 Nov 2025 13:51:53 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>iOS26 Beta8</title><link>https://0413one.github.io/post/iOS26%20Beta8.html</link><description>[http://xhslink.com/o/7r6dKu88ZkU](http://xhslink.com/o/7r6dKu88ZkU)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://0413one.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://0413one.github.io</link></image><lastBuildDate>Thu, 20 Nov 2025 13:57:03 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>iOS26.1 Beta2</title><link>https://0413one.github.io/post/iOS26.1%20Beta2.html</link><description>[http://xhslink.com/o/1QkJMnp6OBc](http://xhslink.com/o/1QkJMnp6OBc)
+
+依旧昨天晚上更新了推送的26.1B2，
+
+一、首先就是新的闹钟响铃界面，26系统把按钮都放大了好多，这个测试版本将关闭的按钮变成了类似于以前很经典的解锁滑块
+
+二、然后就是左对齐
+1.所有文件夹的标题如图所示左对齐了
+2.设置中的很多界面如蓝牙界面最顶上的那个板块图标标题以及介绍都变成左对齐了，包括但不限于无线局域网，蜂窝网络，一般，辅助触控，Face ID与密码，隐私与安全的界面
+3.还有自带的部分系统应用如随手记，滑动后的标题原先居中在顶栏的现在变成居左了，如图所示
+
+三、还有一些比较零碎的，以及不确定是不是在这个版本更新的内容
+1.计算器的历史记录从三个横杠的菜单按钮变成了一个历史记录图标，变得更直观了，还是挺不错的
+2.修复了打开文件夹电池小组件会变黑的错误如图三所示
+3.短信应用中之前自带的未知寄件人，它自动关闭了，如果需要还要去设置里面打开。</description><guid isPermaLink="true">https://0413one.github.io/post/iOS26.1%20Beta2.html</guid><pubDate>Thu, 20 Nov 2025 13:56:32 +0000</pubDate></item><item><title>iOS26 Beta8</title><link>https://0413one.github.io/post/iOS26%20Beta8.html</link><description>[http://xhslink.com/o/7r6dKu88ZkU](http://xhslink.com/o/7r6dKu88ZkU)
 
 iOS26b8 www 升级了
 
