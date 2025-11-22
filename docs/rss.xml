@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Karina.xin</title><link>https://0413one.github.io</link><description>Blog description</description><copyright>Karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://photos.cn-nb1.rains3.com/9B7F803A70555EB20AFDC6955616574D.jpeg</url><title>avatar</title><link>https://0413one.github.io</link></image><lastBuildDate>Sat, 22 Nov 2025 21:58:57 +0000</lastBuildDate><managingEditor>Karina.xin</managingEditor><ttl>60</ttl><webMaster>Karina.xin</webMaster><item><title>澎湃3</title><link>https://0413one.github.io/post/peng-pai-3.html</link><description>看了一下K80，发现已经推送了澎湃3，将K80的系统升级成澎湃3了
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Karina.xin</title><link>https://0413one.github.io</link><description>Blog description</description><copyright>Karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://photos.cn-nb1.rains3.com/9B7F803A70555EB20AFDC6955616574D.jpeg</url><title>avatar</title><link>https://0413one.github.io</link></image><lastBuildDate>Sat, 22 Nov 2025 22:06:39 +0000</lastBuildDate><managingEditor>Karina.xin</managingEditor><ttl>60</ttl><webMaster>Karina.xin</webMaster><item><title>同时独立子域名访问me.htm</title><link>https://0413one.github.io/post/tong-shi-du-li-zi-yu-ming-fang-wen-me.htm.html</link><description>昨日（*Nov3,2025的昨日）把me.htm单独弄了一个子域名me.karina.xin
+没想到居然要这么多步骤，但不过所幸素可以的，这就非常好了
+
+Cloudflare里面的我的域名新建一个二级域名分配给我的Github中的存储库中的一个文件
+那个存储库它已经分配了一个主域名了，它里面的一个文件再分配一个子域名
+透过那个二级域名直接访问，后面不用加上文件名。</description><guid isPermaLink="true">https://0413one.github.io/post/tong-shi-du-li-zi-yu-ming-fang-wen-me.htm.html</guid><pubDate>Sat, 22 Nov 2025 22:06:05 +0000</pubDate></item><item><title>澎湃3</title><link>https://0413one.github.io/post/peng-pai-3.html</link><description>看了一下K80，发现已经推送了澎湃3，将K80的系统升级成澎湃3了
 
 安卓手机更新系统这么快的吗？我在更新26的时候卡在苹果那里进度条好久，所以后来我都在夜晚的时候更新选择的是
 
