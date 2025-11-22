@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Karina.xin</title><link>https://0413one.github.io</link><description>Blog description</description><copyright>Karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://photos.cn-nb1.rains3.com/9B7F803A70555EB20AFDC6955616574D.jpeg</url><title>avatar</title><link>https://0413one.github.io</link></image><lastBuildDate>Sat, 22 Nov 2025 22:06:39 +0000</lastBuildDate><managingEditor>Karina.xin</managingEditor><ttl>60</ttl><webMaster>Karina.xin</webMaster><item><title>同时独立子域名访问me.htm</title><link>https://0413one.github.io/post/tong-shi-du-li-zi-yu-ming-fang-wen-me.htm.html</link><description>昨日（*Nov3,2025的昨日）把me.htm单独弄了一个子域名me.karina.xin
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Karina.xin</title><link>https://0413one.github.io</link><description>Blog description</description><copyright>Karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://photos.cn-nb1.rains3.com/9B7F803A70555EB20AFDC6955616574D.jpeg</url><title>avatar</title><link>https://0413one.github.io</link></image><lastBuildDate>Sat, 22 Nov 2025 22:12:14 +0000</lastBuildDate><managingEditor>Karina.xin</managingEditor><ttl>60</ttl><webMaster>Karina.xin</webMaster><item><title>零成本发链接赚翻？这信息差也太离谱了</title><link>https://0413one.github.io/post/ling-cheng-ben-fa-lian-jie-zhuan-fan-%EF%BC%9F-zhe-xin-xi-cha-ye-tai-li-pu-le.html</link><description>刚刚接到通知，网站已经被淘汰了
+刚刚接到通知，眼睛也已经被淘汰了
+
+事情是这样的
+刚才在刷小某书，又刷到广告了，本来想划走，突然让我大为震惊！
+
+0成本，发链接赚翻？这就是信息差吗？这信息差也太离谱了吧
+这个网站还不是他做的，而且还是免费的
+
+“我们我们不生产网站，我们只是网站链接的搬运工”（笑
+视频中大大的一个设备荧幕上都写在那里标题了，居然还有9000多个点赞，和9000多个售出，还专门开了一个账号。</description><guid isPermaLink="true">https://0413one.github.io/post/ling-cheng-ben-fa-lian-jie-zhuan-fan-%EF%BC%9F-zhe-xin-xi-cha-ye-tai-li-pu-le.html</guid><pubDate>Sat, 22 Nov 2025 22:11:39 +0000</pubDate></item><item><title>同时独立子域名访问me.htm</title><link>https://0413one.github.io/post/tong-shi-du-li-zi-yu-ming-fang-wen-me.htm.html</link><description>昨日（*Nov3,2025的昨日）把me.htm单独弄了一个子域名me.karina.xin
 没想到居然要这么多步骤，但不过所幸素可以的，这就非常好了
 
 Cloudflare里面的我的域名新建一个二级域名分配给我的Github中的存储库中的一个文件
