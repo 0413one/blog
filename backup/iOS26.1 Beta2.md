@@ -1,5 +1,7 @@
 [http://xhslink.com/o/1QkJMnp6OBc](http://xhslink.com/o/1QkJMnp6OBc)
 
+[https://mp.weixin.qq.com/s/OMGH2Fy7TfdgBNdlQ5kNAA](https://mp.weixin.qq.com/s/OMGH2Fy7TfdgBNdlQ5kNAA)
+
 依旧昨天晚上更新了推送的26.1B2，
 
 一、首先就是新的闹钟响铃界面，26系统把按钮都放大了好多，这个测试版本将关闭的按钮变成了类似于以前很经典的解锁滑块
