@@ -1,5 +1,7 @@
 [http://xhslink.com/o/7r6dKu88ZkU](http://xhslink.com/o/7r6dKu88ZkU)
 
+[https://mp.weixin.qq.com/s/NVf6XOIoNqxiuPg9LHSI-Q](https://mp.weixin.qq.com/s/NVf6XOIoNqxiuPg9LHSI-Q)
+
 iOS26b8 www 升级了
 
 18动画太少了🙏🏻🙏🏻🙏🏻申请了b1开始体验的，到b2后悔了降级那些太麻烦了，直接再升级好了b5到b8😋😋更新26的这一段时间电池直接掉了4%系统还超级耗电，直接来吧😼（端着鸡汤咬牙切齿的说）
