@@ -1,5 +1,7 @@
 [http://xhslink.com/o/4O28FXLqbxH](http://xhslink.com/o/4O28FXLqbxH)
 
+[https://mp.weixin.qq.com/s/8qwaqD6CXnPxzTt8O9AdPQ](https://mp.weixin.qq.com/s/8qwaqD6CXnPxzTt8O9AdPQ)
+
 体验到iOS 26了，比较很开心的(⌒▽⌒)
 片面的评论一下ww
 
