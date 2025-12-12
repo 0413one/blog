@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io</link><description>blog.karina.xin</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://photos.cn-nb1.rains3.com/9B7F803A70555EB20AFDC6955616574D.jpeg</url><title>avatar</title><link>https://0413one.github.io</link></image><lastBuildDate>Fri, 12 Dec 2025 13:29:14 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>抖音适配iOS26液态玻璃</title><link>https://0413one.github.io/post/dou-yin-shi-pei-iOS26-ye-tai-bo-li.html</link><description>[https://mp.weixin.qq.com/s/-AWQkNSzlykYDiLUVq8cGw?qq_aio_chat_type=2](https://mp.weixin.qq.com/s/-AWQkNSzlykYDiLUVq8cGw?qq_aio_chat_type=2)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io</link><description>blog.karina.xin</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://photos.cn-nb1.rains3.com/9B7F803A70555EB20AFDC6955616574D.jpeg</url><title>avatar</title><link>https://0413one.github.io</link></image><lastBuildDate>Fri, 12 Dec 2025 16:11:06 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>抖音适配iOS26液态玻璃</title><link>https://0413one.github.io/post/dou-yin-shi-pei-iOS26-ye-tai-bo-li.html</link><description>[https://mp.weixin.qq.com/s/-AWQkNSzlykYDiLUVq8cGw?qq_aio_chat_type=2](https://mp.weixin.qq.com/s/-AWQkNSzlykYDiLUVq8cGw?qq_aio_chat_type=2)
 
 截止Dec11,2025抖音最新版已经适配IOS 26的液态玻璃效果了，接下来和小编一起去看看液态玻璃的效果吧
 
@@ -93,74 +93,7 @@ iOS26b8 www 升级了
 不为了什么 现在的我已然没有这么纯粹了 开的每个账号
 抖音，微信公众号，小红书，telegram频道，哔哩哔哩，快手，X那些都在看收益规则，甚是感慨。</description><guid isPermaLink="true">https://0413one.github.io/post/Nov25%2C2025%20-xiao-hai-ge.html</guid><pubDate>Thu, 27 Nov 2025 08:03:16 +0000</pubDate></item><item><title>Nov22,2025 初雪 牵住的手 抓不住的春天</title><link>https://0413one.github.io/post/Nov22%2C2025%20-chu-xue-%20-qian-zhu-de-shou-%20-zhua-bu-zhu-de-chun-tian.html</link><description>[https://mp.weixin.qq.com/s/gw4xyFfnJf0GeP7vqjuzVQ](https://mp.weixin.qq.com/s/gw4xyFfnJf0GeP7vqjuzVQ)
 
-冬，叹息已然有了形状。</description><guid isPermaLink="true">https://0413one.github.io/post/Nov22%2C2025%20-chu-xue-%20-qian-zhu-de-shou-%20-zhua-bu-zhu-de-chun-tian.html</guid><pubDate>Sun, 23 Nov 2025 12:46:45 +0000</pubDate></item><item><title>零成本发链接赚翻？这信息差也太离谱了</title><link>https://0413one.github.io/post/ling-cheng-ben-fa-lian-jie-zhuan-fan-%EF%BC%9F-zhe-xin-xi-cha-ye-tai-li-pu-le.html</link><description>[https://mp.weixin.qq.com/s/cofYkuqvCti0jnCViGdTuw](https://mp.weixin.qq.com/s/cofYkuqvCti0jnCViGdTuw)
-
-刚刚接到通知，网站已经被淘汰了
-刚刚接到通知，眼睛也已经被淘汰了
-
-事情是这样的
-刚才在刷小某书，又刷到广告了，本来想划走，突然让我大为震惊！
-
-0成本，发链接赚翻？这就是信息差吗？这信息差也太离谱了吧
-这个网站还不是他做的，而且还是免费的
-
-“我们我们不生产网站，我们只是网站链接的搬运工”（笑
-视频中大大的一个设备荧幕上都写在那里标题了，居然还有9000多个点赞，和9000多个售出，还专门开了一个账号。</description><guid isPermaLink="true">https://0413one.github.io/post/ling-cheng-ben-fa-lian-jie-zhuan-fan-%EF%BC%9F-zhe-xin-xi-cha-ye-tai-li-pu-le.html</guid><pubDate>Sat, 22 Nov 2025 22:11:39 +0000</pubDate></item><item><title>同时独立子域名访问me.htm</title><link>https://0413one.github.io/post/tong-shi-du-li-zi-yu-ming-fang-wen-me.htm.html</link><description>昨日（*Nov3,2025的昨日）把me.htm单独弄了一个子域名me.karina.xin
-没想到居然要这么多步骤，但不过所幸素可以的，这就非常好了
-
-Cloudflare里面的我的域名新建一个二级域名分配给我的Github中的存储库中的一个文件
-那个存储库它已经分配了一个主域名了，它里面的一个文件再分配一个子域名
-透过那个二级域名直接访问，后面不用加上文件名。</description><guid isPermaLink="true">https://0413one.github.io/post/tong-shi-du-li-zi-yu-ming-fang-wen-me.htm.html</guid><pubDate>Sat, 22 Nov 2025 22:06:05 +0000</pubDate></item><item><title>澎湃3</title><link>https://0413one.github.io/post/peng-pai-3.html</link><description>看了一下K80，发现已经推送了澎湃3，将K80的系统升级成澎湃3了
-
-安卓手机更新系统这么快的吗？我在更新26的时候卡在苹果那里进度条好久，所以后来我都在夜晚的时候更新选择的是
-
-更新了首先看到的就是有一个灵动岛，安卓也是好起来了，恰我来时不逢春
-然后就是看到图标变成了新的设计，变了非常非常多，好多应用图标很像苹果的图标，比如说那个短信息真的好像，但不过这个图标还不错吧，可能是原来的图标看太久有点疲劳了，看这个新颖的还不错
-还有就是状态栏的那些电池Wi-Fi图标也已然都更新了，挺不错的，但不过确实没有了小米的风格
-还有就是有了5*9的桌面排布，不确定是不是澎湃三的功能，总之我用过的以前的澎湃已经没有埃都没有这个选项，除非用主题，我喜欢用抽屉模式，这样子图标可以紧凑一点，之前的太空太空了，我记得是五层只有一个5*6，如果要全比较紧凑的七层必须要选择一层四个的4*7。</description><guid isPermaLink="true">https://0413one.github.io/post/peng-pai-3.html</guid><pubDate>Sat, 22 Nov 2025 21:58:28 +0000</pubDate></item><item><title>iOS26.1 Beta2</title><link>https://0413one.github.io/post/iOS26.1%20Beta2.html</link><description>[http://xhslink.com/o/1QkJMnp6OBc](http://xhslink.com/o/1QkJMnp6OBc)
-
-[https://mp.weixin.qq.com/s/OMGH2Fy7TfdgBNdlQ5kNAA](https://mp.weixin.qq.com/s/OMGH2Fy7TfdgBNdlQ5kNAA)
-
-依旧昨天晚上更新了推送的26.1B2，
-
-一、首先就是新的闹钟响铃界面，26系统把按钮都放大了好多，这个测试版本将关闭的按钮变成了类似于以前很经典的解锁滑块
-
-二、然后就是左对齐
-1.所有文件夹的标题如图所示左对齐了
-2.设置中的很多界面如蓝牙界面最顶上的那个板块图标标题以及介绍都变成左对齐了，包括但不限于无线局域网，蜂窝网络，一般，辅助触控，Face ID与密码，隐私与安全的界面
-3.还有自带的部分系统应用如随手记，滑动后的标题原先居中在顶栏的现在变成居左了，如图所示
-
-三、还有一些比较零碎的，以及不确定是不是在这个版本更新的内容
-1.计算器的历史记录从三个横杠的菜单按钮变成了一个历史记录图标，变得更直观了，还是挺不错的
-2.修复了打开文件夹电池小组件会变黑的错误如图三所示
-3.短信应用中之前自带的未知寄件人，它自动关闭了，如果需要还要去设置里面打开。</description><guid isPermaLink="true">https://0413one.github.io/post/iOS26.1%20Beta2.html</guid><pubDate>Thu, 20 Nov 2025 13:56:32 +0000</pubDate></item><item><title>iOS26 Beta8</title><link>https://0413one.github.io/post/iOS26%20Beta8.html</link><description>[http://xhslink.com/o/7r6dKu88ZkU](http://xhslink.com/o/7r6dKu88ZkU)
-
-[https://mp.weixin.qq.com/s/NVf6XOIoNqxiuPg9LHSI-Q](https://mp.weixin.qq.com/s/NVf6XOIoNqxiuPg9LHSI-Q)
-
-iOS26b8 www 升级了
-
-18动画太少了🙏🏻🙏🏻🙏🏻申请了b1开始体验的，到b2后悔了降级那些太麻烦了，直接再升级好了b5到b8😋😋更新26的这一段时间电池直接掉了4%系统还超级耗电，直接来吧😼（端着鸡汤咬牙切齿的说）
-
-感觉没有太多东西更新包好大ww控制中心的背景好像更模糊了一点，但不过可以确切的是部分按钮的图标变大了，比如说那个查找Apple Watch的😽😽
-
-然后电池小组件终于也是还有点毛玻璃的液态玻璃的感觉了，Dock栏好像也加了更多毛玻璃的效果，感觉没前几个版本透了😿
-应用开启时间的动画变快了，然后还变了打开动画，感觉有点卓里卓气的（bushi😸😸😸
-
-锁屏的时间也有液态玻璃的效果了，之前更像是毛玻璃
-
-然后升级完刚开机还有一些提示截图不能😿
-
-睡觉觉了，咕咕咕咕🤖🤖🤖
-（别问为什么这么糊，用的古董iPad相机拍的。</description><guid isPermaLink="true">https://0413one.github.io/post/iOS26%20Beta8.html</guid><pubDate>Thu, 20 Nov 2025 13:51:20 +0000</pubDate></item><item><title>iOS26 Beta1</title><link>https://0413one.github.io/post/iOS26%20Beta1.html</link><description>[http://xhslink.com/o/4O28FXLqbxH](http://xhslink.com/o/4O28FXLqbxH)
-
-[https://mp.weixin.qq.com/s/8qwaqD6CXnPxzTt8O9AdPQ](https://mp.weixin.qq.com/s/8qwaqD6CXnPxzTt8O9AdPQ)
-
-体验到iOS 26了，比较很开心的(⌒▽⌒)
-片面的评论一下ww
-
-玻璃感觉超漂亮，很多第三方的应用也被重制了（？，不仔细看都很明显的能看出玻璃的那种效果🩵🩷🤍
-
-确实有时候会有一点点卡住的感觉，没有特别烫感觉。</description><guid isPermaLink="true">https://0413one.github.io/post/iOS26%20Beta1.html</guid><pubDate>Thu, 20 Nov 2025 13:45:27 +0000</pubDate></item><item><title>Nov20,2025 我也有自己的微信公众号啦~</title><link>https://0413one.github.io/post/Nov20%2C2025%20-wo-ye-you-zi-ji-de-wei-xin-gong-zhong-hao-la-~.html</link><description>[https://mp.weixin.qq.com/s/3kgmTtU-9i0ysDm2njclRQ](https://mp.weixin.qq.com/s/3kgmTtU-9i0ysDm2njclRQ)
+冬，叹息已然有了形状。</description><guid isPermaLink="true">https://0413one.github.io/post/Nov22%2C2025%20-chu-xue-%20-qian-zhu-de-shou-%20-zhua-bu-zhu-de-chun-tian.html</guid><pubDate>Sun, 23 Nov 2025 12:46:45 +0000</pubDate></item><item><title>Nov20,2025 我也有自己的微信公众号啦~</title><link>https://0413one.github.io/post/Nov20%2C2025%20-wo-ye-you-zi-ji-de-wei-xin-gong-zhong-hao-la-~.html</link><description>[https://mp.weixin.qq.com/s/3kgmTtU-9i0ysDm2njclRQ](https://mp.weixin.qq.com/s/3kgmTtU-9i0ysDm2njclRQ)
 
 今天早上起来就突然兴致对于博客网站与微信公众号，前几周发现在微信移动端App里面的公众号很直接的就开放了个人快捷注册公众号的板块
 看来这是微信为微信公众号，加入更多活力，开启全民写公众号的一个步骤
