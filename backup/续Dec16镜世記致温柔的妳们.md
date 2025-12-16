@@ -1,6 +1,6 @@
-[X](https://x.com/xwancheng/status/2000898009656074689?s=46)
+[X上的该帖](https://x.com/xwancheng/status/2000898009656074689?s=46)
 
-[QZone](https://h5.qzone.qq.com/universal-share/share?busi_data=%7B%22share_id%22%3A%22dfe3b338-da76-11f0-a304-5254004610ce%22%2C%22err_code%22%3A0%2C%22err_msg%22%3A%22%22%2C%22need_break%22%3Afalse%2C%22tips%22%3A%7B%7D%2C%22FeedActionDomainType%22%3A0%2C%22BannerType%22%3A0%7D&data=6cYq26XAg2tfI2ivRsoTMCARpbK9-aXQU_aTdmQBhGe_oPiTMjHJ85CpY_1a1aEtlJrmKaiJrDxqIZge1s4HgEwuL0DseGilx_RjmsPRrX2ah-mfF6oOwoYKu5NPg7Pyt5lrFRbV4wfBxi2xXUX9WIAoIgNh0JS4CMQEwojB2eFEFP2gSq_ftStlUlTFJMO0k7-0DVdLSGjlp5FTZpte1Q&svctype=1&tempid=h5_feed&feed_action_domain_type=0&banner_type=0)
+[QZone上的该帖](https://h5.qzone.qq.com/universal-share/share?busi_data=%7B%22share_id%22%3A%22dfe3b338-da76-11f0-a304-5254004610ce%22%2C%22err_code%22%3A0%2C%22err_msg%22%3A%22%22%2C%22need_break%22%3Afalse%2C%22tips%22%3A%7B%7D%2C%22FeedActionDomainType%22%3A0%2C%22BannerType%22%3A0%7D&data=6cYq26XAg2tfI2ivRsoTMCARpbK9-aXQU_aTdmQBhGe_oPiTMjHJ85CpY_1a1aEtlJrmKaiJrDxqIZge1s4HgEwuL0DseGilx_RjmsPRrX2ah-mfF6oOwoYKu5NPg7Pyt5lrFRbV4wfBxi2xXUX9WIAoIgNh0JS4CMQEwojB2eFEFP2gSq_ftStlUlTFJMO0k7-0DVdLSGjlp5FTZpte1Q&svctype=1&tempid=h5_feed&feed_action_domain_type=0&banner_type=0)
 
 在这一次的第50个梦中，十字路口的红绿灯下终于妳这一次与现实中一样选择真正的离开了，红灯很久，彼此都看了很久彼此，还能看见你眼中的依恋的妳（玥）
 
