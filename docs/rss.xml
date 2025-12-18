@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEMsANpQBJbah24ByY1nOtmmmcUmC696QAChiYAAismAAFW3QRg5UmbApA2BA.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Thu, 18 Dec 2025 20:40:06 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>我的应用:芝士知事-聚合热点</title><link>https://0413one.github.io/blog/post/wo-de-ying-yong---zhi-shi-zhi-shi---ju-he-re-dian.html</link><description>- 导言
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEMsANpQBJbah24ByY1nOtmmmcUmC696QAChiYAAismAAFW3QRg5UmbApA2BA.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Thu, 18 Dec 2025 20:41:31 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>我的应用:芝士知事-聚合热点</title><link>https://0413one.github.io/blog/post/wo-de-ying-yong---zhi-shi-zhi-shi---ju-he-re-dian.html</link><description>- 导言
 - 开始使用
 - 更多
 - Q&amp;A
 
 # 导言
 **芝士知事 Cheese**上线啦，这是一款聚集主流平台的热搜榜的项目
-链接：[https://miniapp.karina.xin/cheese](https://miniapp.karina.xin/cheese)
-项目地址：[https://github.com/0413one/miniapp](https://github.com/0413one/miniapp)
+
+链接：
+[https://miniapp.karina.xin/cheese](https://miniapp.karina.xin/cheese)
+项目地址：
+[https://github.com/0413one/miniapp](https://github.com/0413one/miniapp)
 
 # 开始使用
-Please wait~
-
 点击标签栏中的任意标签后 所对应的第三方网站需要加载时间，所以请等待，稍后即可在下方预览窗进行查看
 
 部分第三方链接无法进行查看，请使用你的浏览器长按或右键到新标签页进行查看
@@ -19,7 +20,9 @@ Please wait~
 # 更多
 这个项目其实很早就做了，当时只做了Android上的APP，现已重制网页端，使用你的任何设备，感谢你的使用
 
-重制版的制作思路是：每个标签中的超链接设定打开方式为父框架中打开，是的，仅此而已
+重制版的制作思路是：每个标签中的超链接设定打开方式为父框架中打开
+
+是的，仅此而已
 
 # Q&amp;A
 Q为什么部分第三方链接无法进行查看？
@@ -29,7 +32,8 @@ Q为什么还有一些链接没有呢？
 A因为我没有弄到对应平台的链接，或者说那些链接没有太好浏览，抱歉
 
 Q为什么用这个主题色
-A这个主题色是#FFA500，是**镜音铃**的应援色！了解更多的有关于Rin [萌娘百科](https://zh.moegirl.org.cn/%E9%95%9C%E9%9F%B3%E9%93%83%C2%B7%E8%BF%9E#google_vignette) [维基百科](https://zh.wikipedia.org/wiki/%E9%8F%A1%E9%9F%B3%E9%88%B4%E3%80%81%E9%80%A3?wprov=sfti1)。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/wo-de-ying-yong---zhi-shi-zhi-shi---ju-he-re-dian.html</guid><pubDate>Thu, 18 Dec 2025 20:39:38 +0000</pubDate></item><item><title>Dec18,2025 重写网站等与做的奇怪的梦(已修改)</title><link>https://0413one.github.io/blog/post/Dec18%2C2025%20-zhong-xie-wang-zhan-deng-yu-zuo-de-qi-guai-de-meng-%28-yi-xiu-gai-%29.html</link><description>梦到什么很多奇怪的 然后梦里的主人说我的域名 开了太多DNS 说开了太多的子域了那些什么的 然后说把多开出来的这些冗余的要塞我XX里喔 然后就被...
+A这个主题色是#FFA500，是**镜音铃**的应援色！了解更多的有关于Rin
+[萌娘百科](https://zh.moegirl.org.cn/%E9%95%9C%E9%9F%B3%E9%93%83%C2%B7%E8%BF%9E#google_vignette) [维基百科](https://zh.wikipedia.org/wiki/%E9%8F%A1%E9%9F%B3%E9%88%B4%E3%80%81%E9%80%A3?wprov=sfti1)。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/wo-de-ying-yong---zhi-shi-zhi-shi---ju-he-re-dian.html</guid><pubDate>Thu, 18 Dec 2025 20:39:38 +0000</pubDate></item><item><title>Dec18,2025 重写网站等与做的奇怪的梦(已修改)</title><link>https://0413one.github.io/blog/post/Dec18%2C2025%20-zhong-xie-wang-zhan-deng-yu-zuo-de-qi-guai-de-meng-%28-yi-xiu-gai-%29.html</link><description>梦到什么很多奇怪的 然后梦里的主人说我的域名 开了太多DNS 说开了太多的子域了那些什么的 然后说把多开出来的这些冗余的要塞我XX里喔 然后就被...
 
 确实有在重新弄DNS与重新为新的仓库或页面分配子域名 然后前几天换仓库删除项目连带DNS那些一起删掉了 弄了好久 弄得挺混乱了但不过能运行
 
