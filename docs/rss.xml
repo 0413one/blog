@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEMsANpQBJbah24ByY1nOtmmmcUmC696QAChiYAAismAAFW3QRg5UmbApA2BA.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Sun, 21 Dec 2025 19:18:22 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>我的应用:芝士知事-聚合热点</title><link>https://0413one.github.io/blog/post/wo-de-ying-yong---zhi-shi-zhi-shi---ju-he-re-dian.html</link><description>- 导言
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEMsANpQBJbah24ByY1nOtmmmcUmC696QAChiYAAismAAFW3QRg5UmbApA2BA.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Tue, 23 Dec 2025 01:33:42 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>微信新功能 截图后快捷分享</title><link>https://0413one.github.io/blog/post/wei-xin-xin-gong-neng-%20-jie-tu-hou-kuai-jie-fen-xiang.html</link><description>[https://mp.weixin.qq.com/s/JfQ4zG7x_leDc3bQ6QKKEw](https://mp.weixin.qq.com/s/JfQ4zG7x_leDc3bQ6QKKEw)
+
+微信这个新功能你发现了吗？经实测
+
+在微信中截图后将会在右下角有一个“转发截图”的按钮，点击后即可快速转发啦
+
+截图的场景包括但不限于聊天会话页，微信首页，设置页（详见下图）
+
+你可以使用这个新功能吗？还发现有其他新功能呢？你期待和喜欢的微信功能是什么？一起来聊聊吧😆
+
+*截止撰稿 Dec22,2025 18:00 UTC+1 *测试版本 V8.0.66。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/wei-xin-xin-gong-neng-%20-jie-tu-hou-kuai-jie-fen-xiang.html</guid><pubDate>Tue, 23 Dec 2025 01:33:15 +0000</pubDate></item><item><title>我的应用:芝士知事-聚合热点</title><link>https://0413one.github.io/blog/post/wo-de-ying-yong---zhi-shi-zhi-shi---ju-he-re-dian.html</link><description>- 导言
 - 开始使用
 - 更多
 - Q&amp;A
