@@ -2,5 +2,5 @@
 
 低清仅供预览 请透过... 以浏览(⌒▽⌒)
 - [哔哩哔哩](https://m.bilibili.com/video/BV1kYqKByEwc)
-- [哔哩哔哩直链](https://www.bilibili.com/blackboard/webplayer/mbplayer.html?isOutside=true&p=1&aid=115849276954602&bvid=BV1kYqKByEwc&cid=35231566271)
+- [哔哩哔哩（视频直链）](https://www.bilibili.com/blackboard/webplayer/mbplayer.html?isOutside=true&p=1&aid=115849276954602&bvid=BV1kYqKByEwc&cid=35231566271)
 - [小红书](http://xhslink.com/o/UCoRjZe7gW)
