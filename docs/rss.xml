@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Wed, 07 Jan 2026 06:19:11 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>Project</title><link>https://0413one.github.io/blog/post/Project.html</link><description># 网站
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Fri, 09 Jan 2026 11:47:04 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>微信“我的”页新功能</title><link>https://0413one.github.io/blog/post/wei-xin-%E2%80%9C-wo-de-%E2%80%9D-ye-xin-gong-neng.html</link><description>[https://mp.weixin.qq.com/s/Fcl1J1pMbtGjQVJPNN9kFQ](https://mp.weixin.qq.com/s/Fcl1J1pMbtGjQVJPNN9kFQ)
+
+
+新年好呀各位朋友们你们那边有下雪吗？
+你们的微信“我的”页面有哪些功能呢？
+
+就在前几天 小编发现 微信“我的”页面更新了一个地方 
+
+原来“卡包”的位置 变更为了“小店与卡包” 并且更新了图标 一起来看看吧
+
+（图片请见微信公众号等上述链接喵）
+
+点击之后可以发现增加了更多新的内容 以及其中还有商品的推荐 是越来越丰富了
+
+顶部的功能栏有五个功能 订单 购物车 小店收藏 最近看过 券卡票证
+
+还可以很轻松的管理在微信中购买的商品 原来的卡包也被集成到了顶部的功能栏中
+
+本期文章就到此为止啦 你们的微信更新了这个功能吗？一起来讨论吧。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/wei-xin-%E2%80%9C-wo-de-%E2%80%9D-ye-xin-gong-neng.html</guid><pubDate>Fri, 09 Jan 2026 11:46:35 +0000</pubDate></item><item><title>Project</title><link>https://0413one.github.io/blog/post/Project.html</link><description># 网站
 - [Karina.xin-琳琳的小窝](https://karina.xin)
 - [芝士知事-聚集主流平台的热搜榜的项目](https://miniapp.karina.xin/cheese)
 
