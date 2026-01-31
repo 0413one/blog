@@ -1,3 +1,5 @@
+※长按使用新标签页打开体验更佳喔
+
 # 网站
 - [Karina.xin-琳琳的小窝](https://karina.xin)
 - [芝士知事-聚集主流平台的热搜榜的项目](https://miniapp.karina.xin/cheese)
