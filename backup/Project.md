@@ -1,5 +1,5 @@
 - 烦请使用新分页打开链接喔～
-- 或复制 https://blog.karina.xin/post/Project.html 到新分页打开
+- 或复制本页连接至新分页打开 https://blog.karina.xin/post/Project.html
 - 非常抱歉造成不好的体验ＴＴ
 
 ## 网站
