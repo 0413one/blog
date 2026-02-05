@@ -1,5 +1,6 @@
 - 烦请使用新分页打开链接喔～
-- 放弃就到此为止啦....
+- 或复制 https://blog.karina.xin/post/Project.html 到新分页打开
+- 非常抱歉造成不好的体验ＴＴ
 
 ## 网站
 - [Karina.xin-琳琳的小窝](https://karina.xin)
