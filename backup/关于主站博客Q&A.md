@@ -1,3 +1,6 @@
+Q 为什么这么命名分类名称呢？
+A 喵,请详见[https://blog.karina.xin/post/guan-yu-bei-wang-lu-wen-jian-jia-ming-cheng.html](https://blog.karina.xin/post/guan-yu-bei-wang-lu-wen-jian-jia-ming-cheng.html)
+
 Q 在主站如何从文章返回文章列表&无法从文章内部顶栏主页按钮返回列表
 A 您可以通过浏览器的上一页按钮进行返回或使用主站顶栏的“博客”链接 我们已发现无法从文章内部的主要按钮返回列表的问题 很抱歉带来不好的体验 并且不能修复 如需使用请点击“访问手机端”链接或直接访问blog.karina.xin 正在努力修复中
 
