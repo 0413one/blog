@@ -12,3 +12,6 @@
 ## 绘画
 - [KA设定稿公示 (26JAN)](https://blog.karina.xin/post/KA-she-ding-gao-gong-shi-%20%2826JAN%29.html)
 - [自设Xy(Ka)半身(彩)公示(描改-26Feb4)](https://blog.karina.xin/post/zi-she-Xy%28Ka%29-ban-shen-%28-cai-%29-gong-shi-%28-miao-gai--26Feb4%29.html)
+
+## 应用
+- [Ka曾做的部分应用合集(共15个)](https://www.123865.com/s/FBqUVv-mwZP3)
