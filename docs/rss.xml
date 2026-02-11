@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Wed, 11 Feb 2026 15:23:24 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>动态随机文字教程(含代码文案）</title><link>https://0413one.github.io/blog/post/dong-tai-sui-ji-wen-zi-jiao-cheng-%28-han-dai-ma-wen-an-%EF%BC%89.html</link><description>效果实例：
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Wed, 11 Feb 2026 15:27:36 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>动态随机文字教程(含代码文案）</title><link>https://0413one.github.io/blog/post/dong-tai-sui-ji-wen-zi-jiao-cheng-%28-han-dai-ma-wen-an-%EF%BC%89.html</link><description>效果实例：
 [https://miniapp.karina.xin/qy](https://miniapp.karina.xin/qy)
 
 1.在&lt;/body&gt;前加入以下两条JS文件 (未经授权严禁直接填充以下链接！)
@@ -10,7 +10,21 @@
 2.同时加入以下两段CSS
 
 ```
-.hero {color:#ffffff;font-size:52px; top:0;left:0;width:100%;height:50%; display:flex;justify-content:center;align-items:center;text-align:center;text-shadow: 0 8px 16px rgba(0, 0, 0, 0.7);animation: float 3.5s ease-in-out infinite;will-change: transform;}
+.hero {
+ color:#ffffff;
+ font-size:52px;  
+ top:0;
+ left:0;
+ width:100%;
+ height:50%; 
+ display:flex;
+ justify-content:center;
+ align-items:center;
+ text-align:center;
+ text-shadow: 0 8px 16px rgba(0, 0, 0, 0.7);
+ animation: float 3.5s ease-in-out infinite;
+ will-change: transform;
+}
 ```
 
 ```
@@ -18,14 +32,18 @@
  0%   { transform: translateY(0); }
  50%  { transform: translateY(-10px); }
  100% { transform: translateY(0); }
-```
 }
+```
 
 3.最后加入以下HTML
 
 ```
 &lt;div class='title4' id='hero-line'&gt;初始文字&lt;/div&gt;
-```。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/dong-tai-sui-ji-wen-zi-jiao-cheng-%28-han-dai-ma-wen-an-%EF%BC%89.html</guid><pubDate>Wed, 11 Feb 2026 15:22:54 +0000</pubDate></item><item><title>弯道超车不是超越别人的 Feb8,2026</title><link>https://0413one.github.io/blog/post/wan-dao-chao-che-bu-shi-chao-yue-bie-ren-de-%20Feb8%2C2026.html</link><description>“@农民实习生: 弯道超车不是超越别人的是超越自己的[灵机一动]” 
+```
+
+最终的效果请根据自己喜欢的再调节就好了不会的话把这些代码给AI看一下即可
+
+因为用的是GP 主站的底栏信息下面有写的 非常耗费服务器的是 所以去浏览器里面把代码下载下来 放到自己的服务器上用 这样子还更快一点 而且可以断网使用。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/dong-tai-sui-ji-wen-zi-jiao-cheng-%28-han-dai-ma-wen-an-%EF%BC%89.html</guid><pubDate>Wed, 11 Feb 2026 15:22:54 +0000</pubDate></item><item><title>弯道超车不是超越别人的 Feb8,2026</title><link>https://0413one.github.io/blog/post/wan-dao-chao-che-bu-shi-chao-yue-bie-ren-de-%20Feb8%2C2026.html</link><description>“@农民实习生: 弯道超车不是超越别人的是超越自己的[灵机一动]” 
 
 是要和自己进行比的 和更好的人比这样子未免对待自己太过于苛刻了 毕竟主要目的是为了让自己越来越好
 
