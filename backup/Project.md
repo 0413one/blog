@@ -12,4 +12,4 @@
 - [自设Xy(Ka)半身(彩)公示(描改-26Feb4)](https://blog.karina.xin/post/zi-she-Xy%28Ka%29-ban-shen-%28-cai-%29-gong-shi-%28-miao-gai--26Feb4%29.html)
 
 ## 应用
-- [Ka曾做的部分应用合集(共15个)](https://www.123865.com/s/FBqUVv-mwZP3)
+- [Ka曾做的部分应用合集(含yominsky,QZ代码,Naje任意门,星启应用超市,Island社交版,YOME,孤岛2,Island,yominskylite昔日天空下的岛,喵愿法杖,哔哩哔哩极速版,世界最终章,星落岛物语,知事)](https://www.123865.com/s/FBqUVv-mwZP3)
