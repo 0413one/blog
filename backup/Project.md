@@ -4,7 +4,6 @@
 
 ## 网站
 - [Karina.xin-琳琳的小窝](https://karina.xin)
-- [Blog.karina.xin](https://blog.karina.xin)
 - [芝士知事-聚集主流热搜榜](https://miniapp.karina.xin/cheese)
 - [喵喵木盒-恣意探索你喜的网站](https://miniapp.karina.xin/nyaweb)
 - [秋林月语(一言)-月下秋林的呢喃](https://miniapp.karina.xin/qy)
@@ -14,7 +13,7 @@
 - [自设Xy(Ka)半身(彩)公示(描改-26Feb4)](https://blog.karina.xin/post/zi-she-Xy%28Ka%29-ban-shen-%28-cai-%29-gong-shi-%28-miao-gai--26Feb4%29.html)
 
 ## 应用
-- [Ka曾做的应用 合集(部分)](https://www.123865.com/s/FBqUVv-mwZP3) 
+- [Ka曾做的安卓应用 合集(部分)](https://www.123865.com/s/FBqUVv-mwZP3) 
 yominsky Ver1.1
 QZone代码 Ver1.0
 Naje任意门 Ver1.2
