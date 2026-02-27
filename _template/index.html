@@ -125,11 +125,11 @@
                 <span>{{ range .Tags }}#{{ . }} {{ end }}</span>
             </div>
             <!-- 预览区域，绑定唯一ID -->
-            <div class="article-preview" id="preview-{{ .ID }}">
+            <div class="article-preview" id="preview-{{ .Title | md5 }}">
                 {{ .Content }}
             </div>
             <!-- 展开/收起按钮 -->
-            <button class="toggle-btn" onclick="toggleContent('{{ .ID }}')">展开全文</button>
+            <button class="toggle-btn" onclick="toggleContent('{{ .Title | md5 }}')">展开全文</button>
         </div>
         {{ end }}
     </main>
