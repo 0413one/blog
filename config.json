@@ -1,17 +1,8 @@
 {
   "title": "Karina.xin",
-  "subTitle": "Karina的个人博客",
-  "description": "记录生活、技术与思考",
+  "subTitle": "",
   "avatarUrl": "https://karina.xin/IMG_02",
-  "GMEK_VERSION": "last",
+  "GMEEK_VERSION": "last",
   "email": "onejialin@outlook.com",
-  "owner": "0413one",
-  "repo": "blog",
-  "issueLabel": "post",
-  "perPage": 10,
-  "url": "https://0413one.github.io/blog",
-  "author": "Karina",
-  "lang": "zh-CN",
-  "timezone": "Asia/Shanghai"
-  "extraHead": "<link rel=\"stylesheet\" href=\"/custom.css\">"
+  "description": "my blog"
 }
