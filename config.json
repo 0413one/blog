@@ -1,6 +1,12 @@
 {
-    "title":"Karina.xin",
-    "subTitle":"",
-    "avatarUrl":"https://karina.xin/IMG_0280.jpeg",
-    "GMEEK_VERSION":"last"
+  "owner": "0413one",
+  "repo": "blog",
+  "title": "Karina.xin",
+  "subTitle": "",
+  "avatarUrl": "https://karina.xin/IMG_02",
+  "GMEK_VERSION": "last",
+  "githubToken": "${{ secrets.GITHUB_TOKEN }}",
+  "issueLabel": "post",
+  "perPage": 10,
+  "url": "https://0413one.github.io/blog"
 }
