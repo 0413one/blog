@@ -1,11 +1,11 @@
 {
-  "owner": "0413one",
-  "repo": "blog",
   "title": "Karina.xin",
   "subTitle": "",
   "avatarUrl": "https://karina.xin/IMG_02",
   "GMEK_VERSION": "last",
-  "githubToken": "${{ secrets.GITHUB_TOKEN }}",
+  "email": "onejialin@outlook.com",
+  "owner": "0413one",
+  "repo": "blog",
   "issueLabel": "post",
   "perPage": 10,
   "url": "https://0413one.github.io/blog"
