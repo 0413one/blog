@@ -1,6 +1,7 @@
 {
   "title": "Karina.xin",
-  "subTitle": "",
+  "subTitle": "Karina的个人博客",
+  "description": "记录生活、技术与思考",
   "avatarUrl": "https://karina.xin/IMG_02",
   "GMEK_VERSION": "last",
   "email": "onejialin@outlook.com",
@@ -9,5 +10,7 @@
   "issueLabel": "post",
   "perPage": 10,
   "url": "https://0413one.github.io/blog",
-  "description": "Karina的个人博客，记录生活与思考"
+  "author": "Karina",
+  "lang": "zh-CN",
+  "timezone": "Asia/Shanghai"
 }
