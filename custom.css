@@ -1,0 +1,36 @@
+/* 全局粉色主题 */
+body {
+    background-color: #fff5f5 !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* 标题颜色 */
+h1, h2, .article-title {
+    color: #FFA398 !important;
+}
+
+/* 按钮和链接颜色 */
+.toggle-btn, .pagination a:hover, .back-home, a {
+    background-color: #FFA398 !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+/* 按钮悬停效果 */
+.toggle-btn:hover, .back-home:hover {
+    background-color: #FFBABA !important;
+}
+
+/* 文章卡片样式 */
+.article-card, .post-content {
+    background: #fff !important;
+    border-radius: 12px !important;
+    padding: 25px !important;
+    margin-bottom: 20px !important;
+    box-shadow: 0 2px 8px rgba(255, 163, 152, 0.15) !important;
+}
+
+/* 元数据颜色 */
+.article-meta, .post-meta {
+    color: #FFA398 !important;
+}
