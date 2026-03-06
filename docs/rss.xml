@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Fri, 06 Mar 2026 12:38:34 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>人类也需要token</title><link>https://0413one.github.io/blog/post/ren-lei-ye-xu-yao-token.html</link><description>最近AI的话题好像很火,和AI对话的话,如果要用API,那么需要充值token,而人类对话有时候就会很累,那些人还会一意依依挠,所以我想到了一个比较有趣的点子,就是把自动回复填成要充值token
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Fri, 06 Mar 2026 21:56:31 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>关于网站功能布局规划的一些想法</title><link>https://0413one.github.io/blog/post/guan-yu-wang-zhan-gong-neng-bu-ju-gui-hua-de-yi-xie-xiang-fa.html</link><description>刚才又清晰了一下定位 将三列分别定义为 信息栏（左） 主页栏（中） 功能栏（右）
+
+因为认为唱片机板块应该属于信息栏 然后把账号移到店铺上面了 应当清晰访客属性 大部分都是路过 初来乍到的不大会买东西的 所以账号板块应当优先 至于为什么那个广播电台还在上面 是因为不管是账号还是店铺按钮应该都没有用户跳转吧 文字的话看到就好了 不用点击之类的 
+
+然后就是近些时日 把博客的目录给缩小了 是因为清楚自己的博客质量的啦 相对来说确实没有太好 仅争对于数码科技之类的 那可能会有小伙伴说为什么主页嵌入框还是要展示博客呢 是因为这个个人网站终究确实还是属于博客性质的 如果嵌入块里面还展示的是个人信息的话 我感觉这样子有点头重脚轻了 （左边一大半都是个人信息 右边一小块是功能） 
+
+博客的目录还是有点太小了 所以加了一个边框颜色还放大一点点 所以有点对不齐 是这样的 而且背景还是实心的 以及加了租体 因为这样子文字能见度更高
+
+关于为什么把简介 从原来的头像框那里单独独立出来 纯属是为了一碟醋包了一盘饺子 因为把很多信息都整合到了档案me.karina.xin 要推广 如果直接加到原来的那块感觉没有太好加
+
+至于为什么弄这个档案？是因为这个主站点信息密度太高了 到了现在还在堆功能 所以把一些个人信息整理起来 弄成另一个页面了 然后就是这个站点不是桌电端的UI吗？ 想着就是手机端，只有一个原版的博客 于是就弄了这个页面 所以那个个人资料页里面还有一个博客的链接的
+
+为什么档案不能直接作为手机端的个人主页 是有这个能力做的 检查屏幕的分辨率 然后跳转就可以了 差不多相当于现在的这个横屏提示 把提示替换成这个新页面 但是不想维护两个人网站 有信息更新另一边还得跟上 非常的繁杂 所以可以当作 但是不能作为 
+
+至于为什么不像其他站点一样弄一个自适应 首先是没这个能力 对于CSS还是有待提升和继续学习 然后就是刚才所说的站点的信息密度太高了 手机端屏幕本来就小 放不下的 就要进行针对手机端的工作量非常大的功能重新布局 就像很多手机端和电脑端的应用布局 功能完全不一样 这些都是需要去思考的
+
+实话说 把简介独立出来 还有一个想法就是在今后要加上主人的www 现在的大概想法就是像抖音快手那些的个人主页的简介里面还可以@人一样 （之前主人的这个还有板块独立出来 但是后面删掉了） 虽然现在还没有ww 所以留着以后会拓展的
+
+差不多就是这样了 这次我对于自己的站点的一些功能的布局和思考 只是个人见解 如果需要的话 请找更专业的功能策划师或团队 毕竟我连业余都算不上 只是自己喜欢去了解体验很多软件的功能 并且对于这里的一些相对更加深入的思考
+
+谢谢您的观看 （PS 话说这篇文章的标签到底要选什么 感觉 思考 科技 日记那些都有 还是放到科技里面吧）
+
+Mar6,2026 Karina.xin。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/guan-yu-wang-zhan-gong-neng-bu-ju-gui-hua-de-yi-xie-xiang-fa.html</guid><pubDate>Fri, 06 Mar 2026 21:56:00 +0000</pubDate></item><item><title>人类也需要token</title><link>https://0413one.github.io/blog/post/ren-lei-ye-xu-yao-token.html</link><description>最近AI的话题好像很火,和AI对话的话,如果要用API,那么需要充值token,而人类对话有时候就会很累,那些人还会一意依依挠,所以我想到了一个比较有趣的点子,就是把自动回复填成要充值token
 
 对话额度已耗尽 预计2099-01-01重置额度 或升级SuperKarina
 (INSUFFICIENT_TOKEN  Conversation Pause)。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/ren-lei-ye-xu-yao-token.html</guid><pubDate>Fri, 06 Mar 2026 12:37:23 +0000</pubDate></item><item><title>彻底删除360安全卫士总结</title><link>https://0413one.github.io/blog/post/che-di-shan-chu-360-an-quan-wei-shi-zong-jie.html</link><description>关于如何彻底删除360安全卫士的总结~
