@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Fri, 06 Mar 2026 21:56:31 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>关于网站功能布局规划的一些想法</title><link>https://0413one.github.io/blog/post/guan-yu-wang-zhan-gong-neng-bu-ju-gui-hua-de-yi-xie-xiang-fa.html</link><description>刚才又清晰了一下定位 将三列分别定义为 信息栏（左） 主页栏（中） 功能栏（右）
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Mon, 09 Mar 2026 10:35:41 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>苹果官方TikTok抽象视频</title><link>https://0413one.github.io/blog/post/ping-guo-guan-fang-TikTok-chou-xiang-shi-pin.html</link><description>- [微信公众号该文章](https://mp.weixin.qq.com/s/HrdfimoSsVF9_no-dy5eVg)
+
+就在不久前MacBook Neo 发布了 一同带来的是iPhone 17e 但不过配置和价格看上去有点难以言说
+
+或许是为了推广MacBook Neo 苹果官方在TikTok上发布了一些非常抽象的视频
+总共有 蓝色颜料手掌和海水 复古电脑上的滚动字幕 粉色的苹果粉扑盒 粉红色日出加上电脑开机的声音 害羞的访达 柠檬和青柠通话 气泡水
+
+[查看图片(需跳转到第三方)](https://mp.weixin.qq.com/s/HrdfimoSsVF9_no-dy5eVg)
+
+那么小伙伴们能够看懂这些抽象的视频吗
+
+
+Karina的小窝
+为您带来 数码科技 持续更新中.。</description><guid isPermaLink="true">https://0413one.github.io/blog/post/ping-guo-guan-fang-TikTok-chou-xiang-shi-pin.html</guid><pubDate>Mon, 09 Mar 2026 10:35:11 +0000</pubDate></item><item><title>关于网站功能布局规划的一些想法</title><link>https://0413one.github.io/blog/post/guan-yu-wang-zhan-gong-neng-bu-ju-gui-hua-de-yi-xie-xiang-fa.html</link><description>刚才又清晰了一下定位 将三列分别定义为 信息栏（左） 主页栏（中） 功能栏（右）
 
 因为认为唱片机板块应该属于信息栏 然后把账号移到店铺上面了 应当清晰访客属性 大部分都是路过 初来乍到的不大会买东西的 所以账号板块应当优先 至于为什么那个广播电台还在上面 是因为不管是账号还是店铺按钮应该都没有用户跳转吧 文字的话看到就好了 不用点击之类的 
 
