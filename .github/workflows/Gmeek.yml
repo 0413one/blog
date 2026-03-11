@@ -17,6 +17,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # ========== 我加的：自动给所有 md 加上标题、日期、description ==========
+      - name: Auto add front matter to all md files
+        run: |
+          find . -name "*.md" | while read file; do
+            if ! head -1 "$file" | grep -q "^---"; then
+              title=$(basename "$file" .md)
+              date=$(date -r "$file" +"%Y-%m-%d")
+              echo -e "---\ntitle: $title\ndate: $date\ndescription: my blog\n---\n$(cat "$file")" > "$file.tmp"
+              mv "$file.tmp" "$file"
+            fi
+          done
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
