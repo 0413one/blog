@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Fri, 13 Mar 2026 22:31:35 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>yominsky</title><link>https://0413one.github.io/blog/post/yominsky.html</link><description>## 使用
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>琳琳的博客-blog.karina.xin</title><link>https://0413one.github.io/blog</link><description>【订阅RSS】blog.karina.xin/rss.xml</description><copyright>琳琳的博客-blog.karina.xin</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://karina.xin/IMG_0280.jpeg</url><title>avatar</title><link>https://0413one.github.io/blog</link></image><lastBuildDate>Fri, 13 Mar 2026 22:33:27 +0000</lastBuildDate><managingEditor>琳琳的博客-blog.karina.xin</managingEditor><ttl>60</ttl><webMaster>琳琳的博客-blog.karina.xin</webMaster><item><title>yominsky</title><link>https://0413one.github.io/blog/post/yominsky.html</link><description>## 使用
 ```
 { name:'用戸名', 
-&amp;nbsp;  text:'正文内容', 
-&amp;nbsp;  time:'YYYY-MM-DD', 
-&amp;nbsp;  address:'所在处/Unknown',
+  text:'正文内容', 
+  time:'YYYY-MM-DD', 
+  address:'所在处/Unknown',
 },
 ```
 
@@ -13,6 +13,9 @@
 - 请修改代码中 '用戸名' '正文内容' 'YYYY-MM-DD' '所在处'字段
 - YYYY-MM-DD为年月日 例如2008-01-02
 - 所在处仅辅助作用 如不愿提供保留Unknown即可
+- 文字不支援换行
+- 文字不支援超链接 图片等任何除文本外的媒体
+
 - 您所投递的内容不得违反法规道德等
 - 您若投递则视为您已悉知并同意上述内容
 
