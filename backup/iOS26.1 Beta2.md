@@ -1,3 +1,8 @@
+---
+title: iOS26.1 Beta2
+date: 2026-03-13
+description: my blog
+---
 [http://xhslink.com/o/1QkJMnp6OBc](http://xhslink.com/o/1QkJMnp6OBc)
 
 [https://mp.weixin.qq.com/s/OMGH2Fy7TfdgBNdlQ5kNAA](https://mp.weixin.qq.com/s/OMGH2Fy7TfdgBNdlQ5kNAA)

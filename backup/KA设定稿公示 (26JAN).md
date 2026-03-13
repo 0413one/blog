@@ -1,3 +1,8 @@
+---
+title: KA设定稿公示 (26JAN)
+date: 2026-03-13
+description: my blog
+---
 ![image](https://i0.hdslb.com/bfs/archive/27f33632f16209bb001467e15cef066c7c083112.jpg@384w_216h_1c.webp)
 
 低清仅供预览 请透过... 以浏览(⌒▽⌒)

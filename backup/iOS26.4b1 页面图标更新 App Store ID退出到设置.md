@@ -1,3 +1,8 @@
+---
+title: iOS26.4b1 页面图标更新 App Store ID退出到设置
+date: 2026-03-13
+description: my blog
+---
 - [微信公众号上此文章](https://mp.weixin.qq.com/s/PYigyQv8nasslYuxulQ-DA)
 - [哔哩哔哩上的此视频](https://b23.tv/GnvuBT8)
 - [抖音短视频上的此视频](https://v.douyin.com/cPgwRMMimug/)

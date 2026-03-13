@@ -1,3 +1,8 @@
+---
+title: 自设Ka全身图(Seedream4.5生成)
+date: 2026-03-13
+description: my blog
+---
 [查看图片](https://b23.tv/4nxejoY) （请尝试利用新分页打开）
 
 - 哔哩哔哩 [https://www.bilibili.com/video/BV13EcVzrEqq/](https://www.bilibili.com/video/BV13EcVzrEqq/)

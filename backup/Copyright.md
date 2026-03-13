@@ -1,3 +1,8 @@
+---
+title: Copyright
+date: 2026-03-13
+description: my blog
+---
 # 1
 站點所使用的图象文字音乐字体视频等所有內容均應归其所有者所有
 

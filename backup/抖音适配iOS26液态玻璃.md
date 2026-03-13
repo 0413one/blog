@@ -1,3 +1,8 @@
+---
+title: 抖音适配iOS26液态玻璃
+date: 2026-03-13
+description: my blog
+---
 [https://mp.weixin.qq.com/s/-AWQkNSzlykYDiLUVq8cGw?qq_aio_chat_type=2](https://mp.weixin.qq.com/s/-AWQkNSzlykYDiLUVq8cGw?qq_aio_chat_type=2)
 
 截止Dec11,2025抖音最新版已经适配IOS 26的液态玻璃效果了，接下来和小编一起去看看液态玻璃的效果吧

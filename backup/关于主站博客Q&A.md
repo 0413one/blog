@@ -1,3 +1,8 @@
+---
+title: 关于主站博客Q&A
+date: 2026-03-13
+description: my blog
+---
 Q 为什么这么命名分类名称呢？
 A 喵,请详见[https://blog.karina.xin/post/guan-yu-bei-wang-lu-wen-jian-jia-ming-cheng.html](https://blog.karina.xin/post/guan-yu-bei-wang-lu-wen-jian-jia-ming-cheng.html)
 

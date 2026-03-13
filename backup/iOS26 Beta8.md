@@ -1,3 +1,8 @@
+---
+title: iOS26 Beta8
+date: 2026-03-13
+description: my blog
+---
 [http://xhslink.com/o/7r6dKu88ZkU](http://xhslink.com/o/7r6dKu88ZkU)
 
 [https://mp.weixin.qq.com/s/NVf6XOIoNqxiuPg9LHSI-Q](https://mp.weixin.qq.com/s/NVf6XOIoNqxiuPg9LHSI-Q)

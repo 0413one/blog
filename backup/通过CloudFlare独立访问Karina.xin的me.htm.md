@@ -1,3 +1,8 @@
+---
+title: 通过CloudFlare独立访问Karina.xin的me.htm
+date: 2026-03-13
+description: my blog
+---
 昨日（*Nov3,2025的昨日）把me.htm单独弄了一个子域名me.karina.xin
 没想到居然要这么多步骤，但不过所幸素可以的，这就非常好了
 
