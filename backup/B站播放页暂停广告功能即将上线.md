@@ -1,3 +1,8 @@
+---
+title: B站播放页暂停广告功能即将上线
+date: 2026-04-12
+description: my blog
+---
 - [查看微信公众号的该文章](https://mp.weixin.qq.com/s/xCsQroz_o0iarirZFlJvbw)
 
 据哔哩哔哩官方账号@超绝可爱激大励 称:
