@@ -1,8 +1,3 @@
----
-title: yominsky
-date: 2026-03-14
-description: my blog
----
 是的 我们重制了yominsk柚你留言版24版 在2020年的今年作为纪念
 
 [https://ys.karina.xin](https://ys.karina.xin)
@@ -44,4 +39,6 @@ Yominsky还有很多问题 管理 广告 费用 维护 活动 ...
 - 您若投递则视为您已悉知并同意上述内容
 
 ## 投递渠道
-- yominsky@karina.xin
+- me@karina.xin
+
+
