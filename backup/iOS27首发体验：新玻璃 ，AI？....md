@@ -1,3 +1,8 @@
+---
+title: iOS27首发体验：新玻璃 ，AI？...
+date: 2026-07-30
+description: my blog
+---
 [查看原文(将跳转微信公众号)](https://mp.weixin.qq.com/s/zXIbRBb_-W4MeuKXqqPmgg)
 
 就在6月9日凌晨 Apple的 WWDC26 开始了 带来了 iOS27.0 Beta 来与小编一起看看体验吧
