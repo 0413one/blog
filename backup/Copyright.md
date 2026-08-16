@@ -10,7 +10,7 @@ All content used on this site, including images, text, music, fonts, and videos,
 
 Unless otherwise stated, all original text content on this site is licensed under **CC BY-SA 4.0**. Website images and third-party sourced materials are not subject to this license.
 
-[https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+[https://creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 # 不隶属声明
 
